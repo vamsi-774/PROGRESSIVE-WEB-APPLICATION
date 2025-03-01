@@ -1,0 +1,51 @@
+{
+    "short_name": "Anon",
+    "name": "Anon - eCommerce Website",
+    "description": "An online store for the latest fashion, electronics, jewelry, and more.",
+    "icons": [
+      {
+        "src": "./assets/images/logo/icon-72x72.png",
+        "sizes": "72x72",
+        "type": "image/png"
+      },
+      {
+        "src": "./assets/images/logo/icon-96x96.png",
+        "sizes": "96x96",
+        "type": "image/png"
+      },
+      {
+        "src": "./assets/images/logo/icon-128x128.png",
+        "sizes": "128x128",
+        "type": "image/png"
+      },
+      {
+        "src": "./assets/images/logo/icon-144x144.png",
+        "sizes": "144x144",
+        "type": "image/png"
+      },
+      {
+        "src": "./assets/images/logo/icon-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "./assets/images/logo/icon-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#000000",
+    "scope": "/",
+    "orientation": "portrait",
+    "lang": "en",
+    "dir": "ltr",
+    "related_applications": [
+      {
+        "platform": "play",
+        "url": "https://play.google.com/store/apps/details?id=com.example.app"
+      }
+    ]
+  }
